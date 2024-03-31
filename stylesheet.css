@@ -1,0 +1,34 @@
+.header{
+    height: 250px;
+    background-color:turquoise;
+    color:lightcoral;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom:10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+        background-color:gold;
+        height: 100px;
+        margin-top: 10px;
+}
+.Shahipaneer{
+height:500px;
+width:50%;
+}
+.RajmaChawal{
+    height:500px;
+    width:50%;
+}
+.main{
+    display:flex;
+}
+body{
+    padding: 20px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#dfe0e2;
+}
+
